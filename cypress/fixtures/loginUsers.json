@@ -1,0 +1,27 @@
+{
+    "admin_user1":{
+        "email":"timilehin.oyeniran@vendease.com",
+        "password":"P@ssword01"
+    },
+
+    "admin_user2":{
+        "email": "desmond.ayodeji@vendease.com",
+        "password":"password1"
+    },
+
+    "registered_user":{
+        "email": "bow@yopmail.com",
+        "password":"P@ssword01"
+    },
+
+    "eprocurement_user":{
+        "email":"larouche@yopmail.com",
+        "password":"password"
+    },
+
+    "invalidUser":{
+        "email":"timilehin@gmail.com",
+        "password":"invalidPass"
+    }
+
+}
